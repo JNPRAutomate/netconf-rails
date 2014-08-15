@@ -1,0 +1,8 @@
+Style/FileName:
+  Enabled: false
+Style/LineLength:
+  Enabled: false
+# Offense count: 2
+# no extensions available ...
+Lint/HandleExceptions:
+  Enabled: false
